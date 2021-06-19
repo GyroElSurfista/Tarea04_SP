@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Administrador
-comment1.params=nombre
-comment1.target=Administrador(java.lang.String)
-comment2.params=
-comment2.target=java.lang.String\ administrar()
-numComments=3
