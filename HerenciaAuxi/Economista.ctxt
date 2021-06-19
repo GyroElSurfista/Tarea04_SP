@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Economista
+comment1.params=nombre
+comment1.target=Economista(java.lang.String)
+comment2.params=monto
+comment2.target=int\ calcularGanancias(int)
+numComments=3
